@@ -1,0 +1,1 @@
+export const env={"PUBLIC_DOMAIN":"langgananku.com","PUBLIC_API_URL":"api.langgananku.com","PUBLIC_REPOSITORY_DATA_JSON_URL":"https://raw.githubusercontent.com/langgananku/data/master","PUBLIC_DEFAULT_PREFIX_STORAGE":"_app","PUBLIC_IS_REST":"false"}
